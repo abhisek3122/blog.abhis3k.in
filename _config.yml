@@ -1,14 +1,14 @@
 # Title of your blog; shows in the header
-name: "bugs.abhis3k.in"
-title: "bugs.abhis3k.in"
+name: "blog.abhis3k.in"
+title: "blog.abhis3k.in"
 
 # Description of your content (will only be used on Google Search)
-description: "David Schütz's bug bounty writeups"
+description: "Abhisek's writeups"
 
 # Your name. Will show in your footer + sidebar
-author: "David Schütz"
+author: "Abhisek R"
 
-url: "https://bugs.abhis3k.in"
+url: "https://blog.abhis3k.in"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
