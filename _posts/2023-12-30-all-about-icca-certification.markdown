@@ -44,6 +44,6 @@ It generates immediately after the examinations are completed and when you have 
 ![Screenshot of the certificate scoring]({{ site.baseurl }}/assets/posts/2023-12-30-got-certified-ine-icca/certificate-icca.png)
 
 ### Timeline:
-[Dec 13, 2023] - Started, ICCA Learning Path<br>
-[Dec 16, 2023] - Completed, ICCA Learning Path
+[Dec 13, 2023] - Started, ICCA Learning Path <br>
+[Dec 16, 2023] - Completed, ICCA Learning Path <br>
 [Dec 17, 2023] - Took Examination
