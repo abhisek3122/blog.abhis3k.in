@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Got Certified, [ICCA - INE Certified Cloud Associate]"
-post-title:  "Got Certified,<br class=\"desktop-br\">[ICCA - INE Certified Cloud Associate]"
+title:  "all about, [ICCA - INE Certified Cloud Associate]"
+post-title:  "all about,<br class=\"desktop-br\">[ICCA - INE Certified Cloud Associate]"
 date:   2023-12-30 10:37:00 +0530
 categories: certificate
 priority-tag: <span class="priority" style="border-color:#F4B400">certificate</span>
@@ -27,9 +27,9 @@ Types of clouds and their layers, Fundamentals of cost management, Monitoring an
 
 It certainly has two parts: one consists of multiple-choice questions with 46 questions, requiring more than 70% correct answers, and the other is a lab section with four questions, each needing two or more points to pass. However, the scoring is not exactly as described; there are some variations. Attendees are required to pass all the cases.
 
-![Screenshot of the certificate scoring]({{ site.baseurl }}/assets/posts/2023-12-30-got-certified-ine-icca/lab-scoring.png)
-
 ![Screenshot of the certificate scoring]({{ site.baseurl }}/assets/posts/2023-12-30-got-certified-ine-icca/mcq-scoring.png)
+
+![Screenshot of the certificate scoring]({{ site.baseurl }}/assets/posts/2023-12-30-got-certified-ine-icca/lab-scoring.png)
 
 #### Chapter 4: <br/>Is it worth spending the time? {#chapter4}
 
