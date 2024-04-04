@@ -30,11 +30,11 @@ Upon redeeming the voucher, I had a subscription to the INE fundamental courses,
 
 #### Chapter 3: <br/>How much did I spend? {#chapter3}
 
-I spent a total of $250, which included two vouchers: one for the eJPT and one for the ICCA examinations, both with two attempts each. These vouchers were bundled with an INE fundamentals subscription valid for 12 months. However, a week after purchasing, I discovered a $100 discount offer for INE, which I had missed out on. My advice would be to wait for around 15-30 days before making a purchase, as there may be offers available, especially during festival days, that could help you save money.
+I spent a total of $300, which included two vouchers: one for the eJPT and one for the ICCA examinations, both with two attempts each. These vouchers were bundled with an INE fundamentals subscription valid for 12 months. However, a week after purchasing, I discovered a $100 discount offer for INE, which I had missed out on. My advice would be to wait for around 15-30 days before making a purchase, as there may be offers available, especially during festival days, that could help you save money.
 
 #### Chapter 4: <br/>Exam pattern? {#chapter4}
 
-During the eJPT examination, you'll receive a set of IP addresses and face 35 questions. The answers to these questions can be found by testing and analyzing the given IP addresses. You'll need to enumerate, understand their workings, identify their technologies, and explore potential exploits. The examination lasts for 48 hours, but I managed to complete it in 22 hours. If you're already familiar with security concepts and using Kali or any other linux distribution, you could potentially complete the examination in as little as 15 hours.
+During the eJPT examination, you'll receive a set of IP addresses and face 35 questions. The answers to these questions can be found by testing and analyzing the given IP addresses. You'll need to enumerate, understand their workings, identify their technologies, and explore potential exploits. The examination lasts for 48 hours, but I managed to complete it in 22 hours. If you're already familiar with security concepts and using Kali or any other linux distribution, you could potentially complete the examination in 15 hours.
 
 ![Screenshot of the course contents]({{ site.baseurl }}/assets/posts/2024-04-04-my-thoughts-and-experience-on-passing-the-ejpt-certification/results.png)
 
