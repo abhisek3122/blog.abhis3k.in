@@ -5,7 +5,7 @@ post-title:  "My Thoughts and Experience on Passing the eJPT Certification"
 date:   2024-04-03 16:02:00 +0530
 categories: certificate
 priority-tag: <span class="priority" style="border-color:#F4B400">certificate</span>
-# twitter-image: /assets/posts/2023-12-30-got-certified-ine-icca/twitter.png
+twitter-image: /assets/posts/2024-04-04-my-thoughts-and-experience-on-passing-the-ejpt-certification/poster.png
 ---
 
 In February 2024, I completed my eJPT certification after realizing that my voucher was expiring soon. It took me about 20 days of learning to achieve this. If you're considering pursuing a cybersecurity certification in penetration testing, specifically the eJPT, then this blog post is for you. Here, I'll discuss the learning process, the expenses I incurred, and provide details about the course materials and examination.
