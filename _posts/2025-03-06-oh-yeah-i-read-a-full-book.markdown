@@ -10,6 +10,8 @@ twitter-image: assets/posts/2025-03-06-oh-yeah-i-read-a-full-book/ghilli-indian-
 
 The past couple of weeks, I’ve been reading this book called “Do it today”. It’s been good since I started—just 10-20 minutes at night before sleep, reading 2-4 pages. It helps you pick up some valuable points, understand different perspectives, and most importantly, keep your gadgets off and enjoy some peaceful reading.
 
+![Indian Economy Scene - Ghilli Movie]({{ site.baseurl }}assets/posts/2025-03-06-oh-yeah-i-read-a-full-book/ghilli-indian-economy-scene.png)
+
 This book is all about increasing productivity and reducing procrastination. So, here’s how I ended up selecting it. When I decided to start reading, I went straight to a bookstore in a mall, specifically the Crossword shop, to search and pick one. I was clear that I didn’t want a big book because I knew I wouldn’t read it, so I wanted something small and within my budget.
 
 Initially, I wanted to get a book with poems about living life alone or dealing with loneliness—something along those lines. But when I got there, I saw so many options. That’s when I thought about how I had been feeling stressed at work due to excessive effort at times, and I figured I should read something about working more effectively. That’s how I ended up getting this book written by Darius Foroux.
