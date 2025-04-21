@@ -147,16 +147,10 @@ Now that you understand the core concepts—at least the basics—it all comes d
 Good night—and good luck!
 
 ### Timeline:
-[Mar 8, 2025] - Bought the book (Simple, Not Easy - Raj Ganpath)
-
-[Mar 10, 2025] - Chapter “Fitness” Completed
-
-[Mar 17, 2025] - Chapter “Nutrition” Completed
-
-[Mar 24, 2025] - Chapter “Movement” Completed
-
-[Mar 30, 2025] - Chapter “Sleep” Completed
-
-[Apr 3, 2025] - Chapter “Stress” Completed
-
+[Mar 8, 2025] - Bought the book (Simple, Not Easy - Raj Ganpath) <br>
+[Mar 10, 2025] - Chapter “Fitness” Completed <br>
+[Mar 17, 2025] - Chapter “Nutrition” Completed <br>
+[Mar 24, 2025] - Chapter “Movement” Completed <br>
+[Mar 30, 2025] - Chapter “Sleep” Completed <br>
+[Apr 3, 2025] - Chapter “Stress” Completed <br>
 [Apr 15, 2025] - Completed Book! ⭐️
