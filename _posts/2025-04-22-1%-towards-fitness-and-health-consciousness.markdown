@@ -10,7 +10,7 @@ twitter-image: /assets/posts/2025-04-22-1-towards-fitness-and-health-consciousne
 
 Simple, Not Easy – Raj Ganpath begins by explaining his journey. Since childhood, he was not deeply involved in sports due to asthma, which limited his physical activity. Determined to overcome this challenge, he explored ways to participate in sports, adjusted his eating habits, and sought alternative approaches. Over time, he realized that a food allergy was a major contributing factor to his condition. Despite these obstacles, he persisted, shaping his journey toward fitness. Now, the focus is on understanding what this journey truly entails and how effectively I—or we—can apply its lessons.
 
-![Varanam Aayiram - Suriya Body Building] ({{ site.baseurl }}/assets/posts/2025-04-22-1-towards-fitness-and-health-consciousness/suriya-v1000-body-building.png
+![Varanam Aayiram - Suriya Body Building]({{ site.baseurl }}/assets/posts/2025-04-22-1-towards-fitness-and-health-consciousness/suriya-v1000-body-building.png
 
 ### Chapter 1: What Is Fitness and Why Do We Need It?
 
