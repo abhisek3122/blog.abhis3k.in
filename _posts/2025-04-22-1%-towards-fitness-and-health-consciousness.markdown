@@ -10,9 +10,9 @@ twitter-image: /assets/posts/2025-04-22-1%-towards-fitness-and-health-consciousn
 
 Simple, Not Easy – Raj Ganpath begins by explaining his journey. Since childhood, he was not deeply involved in sports due to asthma, which limited his physical activity. Determined to overcome this challenge, he explored ways to participate in sports, adjusted his eating habits, and sought alternative approaches. Over time, he realized that a food allergy was a major contributing factor to his condition. Despite these obstacles, he persisted, shaping his journey toward fitness. Now, the focus is on understanding what this journey truly entails and how effectively I—or we—can apply its lessons.
 
-![Varanam Aayiram - Suriya Body Building]({{ site.baseurl }}/assets/posts/2025-04-22-1%-towards-fitness-and-health-consciousness/suriya-v1000-body-building.png)
+![Varanam Aayiram - Suriya Body Building]({{ site.baseurl }}/assets/posts/2025-04-22-1%-towards-fitness-and-health-consciousness/suriya-v1000-body-building.png
 
-#### Chapter 1: What Is Fitness and Why Do We Need It?
+### Chapter 1: What Is Fitness and Why Do We Need It?
 
 Fitness is the ability to do what you desire without limitations—whether it's achieving daily, weekly, or yearly goals or simply managing everyday tasks with ease. If you can accomplish these without difficulty, you are fit. If not, it's a sign that you need to work on your fitness.
 
@@ -22,7 +22,7 @@ To make fitness sustainable and manageable, simplicity is key. There are countle
 
 One of the most important aspects of staying fit is understanding your purpose. Fitness isn’t easy, it isn’t cheap, and it requires effort and commitment. When you have a strong reason for prioritizing your health, you'll stay motivated even when challenges arise. Whether it's investing in quality nutrition, buying supplements like whey protein, or making time for exercise, having a clear purpose ensures that fitness remains a non-negotiable part of your life.
 
-#### Chapter 2: Nutrients
+### Chapter 2: Nutrients
 
 Many people think of food as just fuel, assuming that eating more automatically provides more energy. However, this is not entirely true. When food is broken down, it provides both macronutrients and micronutrients, each playing a crucial role in maintaining overall health. Consuming them in the right balance is essential—an imbalance can lead to deficiencies or unwanted side effects.
 
@@ -72,7 +72,7 @@ Once you understand the basics of nutrition, making healthy choices becomes easi
 
 It doesn’t matter where or how you eat—prioritizing these elements ensures a well-balanced diet without overcomplication.
 
-#### Chapter 3: Movement
+### Chapter 3: Movement
 
 Movement is a fundamental aspect of life—everyone wants to move freely and without discomfort. To maintain this ability over time, consistent care is essential. This is where physical activity, including exercise and gym routines, plays a crucial role. However, many people get highly motivated and jump into intense plans without understanding the basics.
 
@@ -94,7 +94,7 @@ For flexibility, include consistent stretching or practices like yoga to improve
 
 By working on all four components—strength, stamina, speed, and flexibility—on a weekly basis, you’ll build a strong foundation for long-term, effective movement.
 
-#### Chapter 4: Sleep
+### Chapter 4: Sleep
 
 Now that we’ve understood the importance of nutrition and movement—two fundamental aspects of our health—it’s time to talk about sleep, which supports and amplifies both. Sleep is the body’s natural recovery system. Whether it's from physical activity, mental exhaustion, or just daily functioning, sleep helps us reset and recharge. While we may not fully understand all the science behind it, one thing is certain: sleep is essential to stay active and energized for the next day.
 
@@ -108,23 +108,23 @@ Certain things can help improve the **quality** of your sleep:
 On the other hand, some habits can make sleep worse:
     - Avoid **caffeine in the evening**. A coffee at 5 PM might still affect you at 2 AM. Whether or not you believe the science, I’ve personally found it harder to fall asleep after late coffee or tea.
 
-#### Chapter 5: Stress
+### Chapter 5: Stress
 
 Let’s keep this simple—**stress is natural** and, in the right amount, even necessary. It’s what pushes us to act, to grow, and to move toward our goals. But when it goes beyond that optimal level, it starts to hurt us—mentally, emotionally, and even physically.
 
 If you begin to feel that discomfort or pressure building up, **don’t ignore it**. The best thing you can do is acknowledge it, **speak to the right person**, and **resolve it directly**. That’s the simplest and most effective way forward.
 
-#### Chapter 6: Consistency
+### Chapter 6: Consistency
 
 Now that you understand the core concepts—at least the basics—it all comes down to one thing: doing them consistently. That’s it. No more overthinking, no more shortcuts, no more noise. Just show up, stick to the fundamentals, and repeat.
 
 Good night—and good luck!
 
 ### Timeline:
-[Mar 8, 2025] - Bought the book (Simple, Not Easy - Raj Ganpath)
-[Mar 10, 2025] - Chapter “Fitness” Completed
-[Mar 17, 2025] - Chapter “Nutrition” Completed
-[Mar 24, 2025] - Chapter “Movement” Completed
-[Mar 30, 2025] - Chapter “Sleep” Completed
-[Apr 3, 2025] - Chapter “Stress” Completed
+[Mar 8, 2025] - Bought the book (Simple, Not Easy - Raj Ganpath)</br>
+[Mar 10, 2025] - Chapter “Fitness” Completed</br>
+[Mar 17, 2025] - Chapter “Nutrition” Completed</br>
+[Mar 24, 2025] - Chapter “Movement” Completed</br>
+[Mar 30, 2025] - Chapter “Sleep” Completed</br>
+[Apr 3, 2025] - Chapter “Stress” Completed</br>
 [Apr 15, 2025] - Completed Book! ⭐️
