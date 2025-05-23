@@ -84,7 +84,7 @@ Let’s try signing up with a Google Account and capture the authorization reque
 
 ![Validating Credentials - This step is skipped if the user is already logged-in]({{ site.baseurl }}/assets/posts/2025-05-23-oauth-concept-and-testcases/8.png)
 
-![Consent Giving Page]({{ site.baseurl }}/assets/posts/9.png)
+![Consent Giving Page]({{ site.baseurl }}/assets/posts/2025-05-23-oauth-concept-and-testcases/9.png)
 
 [3] After the user grants consent, they are redirected to the URL specified in the redirect_uri parameter on the authorization request (step 1) and based on the grant type, parameters are attached on the call back.
 
