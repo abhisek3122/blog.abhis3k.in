@@ -244,6 +244,7 @@ A Refresh Token is used to obtain a new access token without requiring the user 
 - https://oauth.net/2/
 - https://oauth.net/2.1/
 - https://frontegg.com/blog/oauth-grant-types
+- https://portswigger.net/research/hidden-oauth-attack-vectors
 
 #### Chapter 8: <br/>Practice Labs {#chapter8}
 - https://portswigger.net/web-security/all-labs#oauth-authentication
