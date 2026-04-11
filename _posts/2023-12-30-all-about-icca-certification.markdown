@@ -3,8 +3,8 @@ layout: post
 title:  "all about, [ICCA - INE Certified Cloud Associate]"
 post-title:  "all about,<br class=\"desktop-br\">[ICCA - INE Certified Cloud Associate]"
 date:   2023-12-30 10:37:00 +0530
-categories: certification
-priority-tag: <span class="priority" style="border-color:#F4B400">certificate</span>
+categories: field notes
+priority-tag: <span class="priority" style="border-color:#7FFFD4">field notes - certification</span>
 twitter-image: /assets/posts/2023-12-30-got-certified-ine-icca/twitter.png
 ---
 
