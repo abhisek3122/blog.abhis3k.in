@@ -4,7 +4,7 @@ title:  "Oh yeah, I read a full book!"
 post-title:  "Oh yeah, I read a full book!"
 date:   2025-03-06 20:44:00 +0530
 categories: book reflection 
-priority-tag: <span class="priority" style="border-color:#D1001F">book</span>
+priority-tag: <span class="priority" style="border-color:#D1001F">book reflection</span>
 twitter-image: /assets/posts/2025-03-06-oh-yeah-i-read-a-full-book/ghilli-indian-economy-scene.png
 ---
 
