@@ -3,8 +3,8 @@ layout: post
 title:  "1% Towards Fitness and Health Consciousness"
 post-title:  "1% Towards Fitness and Health Consciousness"
 date:   2025-04-22 00:06:00 +0530
-categories: book reflection
-priority-tag: <span class="priority" style="border-color:#D1001F">book</span>
+categories: book reflection 
+priority-tag: <span class="priority" style="border-color:#D1001F">book reflection</span>
 twitter-image: /assets/posts/2025-04-22-1-towards-fitness-and-health-consciousness/suriya-v1000-body-building.png
 ---
 
