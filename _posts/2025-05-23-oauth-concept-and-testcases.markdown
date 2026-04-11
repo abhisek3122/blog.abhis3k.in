@@ -3,8 +3,8 @@ layout: post
 title:  "Open Authorization (OAuth) Concepts & Testcases"
 post-title:  "Open Authorization (OAuth) Concepts & Testcases"
 date:   2025-05-23 09:30:00 +0530
-categories: concept & testcases
-priority-tag: <span class="priority" style="border-color:#7FFFD4">concept & testcases</span>
+categories: field notes
+priority-tag: <span class="priority" style="border-color:#7FFFD4">field notes</span>
 twitter-image: /assets/posts/2025-05-23-oauth-concept-and-testcases/main.png
 ---
 
