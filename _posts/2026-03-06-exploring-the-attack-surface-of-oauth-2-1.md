@@ -3,8 +3,8 @@ layout: post
 title:  "Exploring the Attack Surface of Open Authorization 2.1"
 post-title:  "Exploring the Attack Surface of Open Authorization 2.1"
 date:   2026-03-06 10:30:00 +0530
-categories: research
-priority-tag: <span class="priority" style="border-color:#1E42F7">research</span>
+categories: field notes
+priority-tag: <span class="priority" style="border-color:#7FFFD4">field notes - research</span>
 twitter-image: /assets/posts/2026-03-06-exploring-the-attack-surface-of-oauth-2.1/main.png
 ---
 
