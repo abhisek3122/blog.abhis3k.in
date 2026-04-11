@@ -3,7 +3,7 @@ layout: post
 title:  "My Thoughts and Experience on Passing the eJPT Certification"
 post-title:  "My Thoughts and Experience on Passing the eJPT Certification"
 date:   2024-04-03 16:02:00 +0530
-categories: certificate
+categories: certification
 priority-tag: <span class="priority" style="border-color:#F4B400">certificate</span>
 twitter-image: /assets/posts/2024-04-04-my-thoughts-and-experience-on-passing-the-ejpt-certification/poster.png
 ---
