@@ -5,7 +5,7 @@ post-title:  "CARTP from a Student's Perspective"
 date:   2026-05-31 19:03:00 +0530
 categories: field notes
 priority-tag: <span class="priority" style="border-color:#7FFFD4">field notes - certification</span>
-twitter-image: /assets/posts/2026-05-31-cartp-from-a-student-perspective/poster.png
+twitter-image: /assets/posts/2026-05-31-cartp-from-a-student-perspective/poster.jpg
 ---
 
 Hey all, back with another certification perspective. I recently cleared the CARTP certification from Altered Security. I'll avoid getting into the details right away because that's what this entire blog is about.
@@ -14,7 +14,7 @@ This is mostly going to be about why I picked the certification, how the course 
 
 Let's dig in!
 
-![CARTP from a Student's Perspective]({{ site.baseurl }}/assets/posts/2026-05-31-cartp-from-a-student-perspective/poster.png)
+![CARTP from a Student's Perspective]({{ site.baseurl }}/assets/posts/2026-05-31-cartp-from-a-student-perspective/poster.jpg)
 
 #### Chapter 1: <br/>What is CARTP and Why Did I Take It? {#chapter1}
 
