@@ -78,6 +78,6 @@ These are just my opinions based on my experience with the course
 [Nov 21, 2025] - Bought the course! <br>
 [May 29, 2026] - Finished going through the course content <br>
 [May 30, 2026] - Took the examination <br>
-[Jun 03, 2024] - Received results and cleared!<br>
+[Jun 04, 2024] - Received certificate!<br>
 
 ![CARTP Certificate]({{ site.baseurl }}/assets/posts/2026-05-31-cartp-from-a-student-perspective/certificate.png)
